@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mikesspinosa/mikesspinosa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/miguelangel-espinosadelosmonteros-osuna/miguelangel-espinosadelosmonteros-osuna/output/snake.svg" alt="Snake animation" />
 
 ###
